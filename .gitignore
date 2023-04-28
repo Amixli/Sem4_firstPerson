@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Sem4_FP/Build/04_2023_Semester_4B_Alina_Ratzlaff_Build/Sem4_FP/Saved/Config/Windows/Synthesis.ini
+Sem4_FP/Build/04_2023_Semester_4B_Alina_Ratzlaff_Build/Engine/Binaries/Win64/tbb.pdb
+Sem4_FP/Build/04_2023_Semester_4B_Alina_Ratzlaff_Build/Engine/Content/SlateDebug/Fonts/LastResort.tps
